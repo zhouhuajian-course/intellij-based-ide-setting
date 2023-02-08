@@ -25,3 +25,7 @@
 ![add-file-encoding-to-vm-option-01.png](asset/add-file-encoding-to-vm-option-01.png)
 
 ![add-file-encoding-to-vm-option-02.png](asset/add-file-encoding-to-vm-option-02.png)
+
+## 忽略 .idea 文件夹
+
+![ignore-idea-folder.png](asset/ignore-idea-folder.png)
