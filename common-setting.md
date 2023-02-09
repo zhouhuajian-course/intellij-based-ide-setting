@@ -29,3 +29,9 @@
 ## 忽略 .idea 文件夹
 
 ![ignore-idea-folder.png](asset/ignore-idea-folder.png)
+
+## 创建文件时，默认不添加到Git
+
+Settings -> Version Control -> Confirmation 
+
+When files are created: Do not add
